@@ -1,0 +1,16 @@
+.panel {
+	margin: 20px auto;
+}
+.bxslider li img{
+	width: 100% !important;
+}
+#bx-pager {
+	text-align: center;
+}
+#bx-pager a {
+	display: inline-block;
+	height: 60px;
+}
+#bx-pager a.active {
+	outline: 2px solid yellow;
+}
