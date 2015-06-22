@@ -14,3 +14,10 @@
 #bx-pager a.active {
 	outline: 2px solid yellow;
 }
+ul.info {
+	list-style-type: none;
+	margin: -60px auto 20px;
+}
+ul.info li{
+	text-align: left;
+}
